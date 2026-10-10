@@ -1,0 +1,16 @@
+{
+    "name": "SlotGame.Runtime",
+    "rootNamespace": "SlotGame",
+    "references": [
+        "SlotGame.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

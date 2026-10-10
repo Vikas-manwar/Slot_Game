@@ -1,0 +1,47 @@
+# ---- Unity generated ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# NOTE: /Build/WebGL is intentionally NOT ignored - the WebGL build is part of the submission.
+# Only ignore temporary build artefacts Unity may leave behind.
+/Build/**/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/Build/**/*_BurstDebugInformation_DoNotShip/
+# Local desktop builds are not part of the submission.
+/Build/*
+!/Build/WebGL/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# ---- IDE / OS ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.DS_Store
+Thumbs.db
+sysinfo.txt
+build.log
+crashlytics-build.properties

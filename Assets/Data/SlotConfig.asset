@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b174011258705b342b15807e33d348e8, type: 3}
+  m_Name: SlotConfig
+  m_EditorClassIdentifier: 
+  symbols:
+  - {fileID: 11400000, guid: 3cd70d9efcfb60a40b1e5fb1303771ee, type: 2}
+  - {fileID: 11400000, guid: 04570749842441a4c8517d7fcc6ee6fc, type: 2}
+  - {fileID: 11400000, guid: fd4ba763211db9241ad9d7526d0d0c6e, type: 2}
+  - {fileID: 11400000, guid: 81618bd5b93df444fbf679375f949cd2, type: 2}
+  - {fileID: 11400000, guid: c4c91ac6bef5a9b45b5f1d31e2268176, type: 2}
+  - {fileID: 11400000, guid: 00b9a9840acf650459624b1a56f5d539, type: 2}
+  reelCount: 3
+  visibleRows: 3
+  startingCredits: 1000
+  betLevels: 050000000a000000190000003200000064000000
+  defaultBetIndex: 1
+  wildWinMultiplier: 2
+  scattersForFreeSpins: 3
+  freeSpinsAwarded: 10
+  scatterPayMultiplier: 2
+  freeSpinWinMultiplier: 2
